@@ -1,24 +1,31 @@
 stocks = {
-    ### ? Default Jones
+    ### ? Default Jones Granatyr Course
+    # 'BOVA11.SA': 'BOVA'
     # 'GOLL4.SA': 'GOL',
     # 'CVCB3.SA': 'CVC',
     # 'WEGE3.SA': 'WEGE',
     # 'MGLU3.SA': 'MGLU',
     # 'TOTS3.SA': 'TOTS',
-    # 'BOVA11.SA': 'BOVA'
+    ### ? ETFs
+    "^GSPC": "S&P 500",
+    "QQQ": "QQQ",
+    "QUAL": "QUAL",
+    "IVV": "IVV",
     ### ? EUA & China high tecnology
-    "MSFT": "MICROSOFT",
-    "AAPL": "APPLE",
-    "GOOGL": "GOOGLE",
-    "AMZN": "AMAZON",
-    "TSLA": "TESLA",
-    "META": "META",
-    "ORCL": "ORACLE",
-    "NVDA": "NVIDIA",
-    "BABA": "ALIBABA",
-    "TCEHY": "TENCENT",
-    "BIDU": "BAIDU",
+    # "^GSPC": "S&P 500",
+    # "MSFT": "MICROSOFT",
+    # "AAPL": "APPLE",
+    # "GOOGL": "GOOGLE",
+    # "AMZN": "AMAZON",
+    # "TSLA": "TESLA",
+    # "META": "META",
+    # "ORCL": "ORACLE",
+    # "NVDA": "NVIDIA",
+    # "BABA": "ALIBABA",
+    # "TCEHY": "TENCENT",
+    # "BIDU": "BAIDU",
     ### ? Benzi
+    # 'BOVA11.SA': 'BOVA'
     # "BBAS3.SA": "BANCO DO BRASIL",
     # "ITSA3.SA": "ITAUSA",
     # "EGIE3.SA": "ENGIE BRASIL",
